@@ -1,5 +1,5 @@
 ---
-title: AWS GameDay
+title: Crytpo challenge game01
 tags:
     - aws
     - gameday
@@ -7,7 +7,7 @@ tags:
     - unicorns
     - crypto
     - cryptography
-description: AWS GameDay
+description: Crytpo challenge game01
 ---
 
 ## Thank you for your participation! 
