@@ -1,9 +1,17 @@
 ---
 title: "HackerCode.Run"
 excerpt_separator: "<!--more-->"
+author_profile: true
+
 header:
-  image: ./assets/images/Backlit-keyboard.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: ./assets/images/Backlit-keyboard.jpg
+  actions:
+    - label: "HackCode.Run"
+      url: "https://www.HackerCode.Run/"
   caption: "Photo credit: [wikipedia.org](https://en.wikipedia.org/wiki/Main_Page)"
+
 categories:
   - Welcome
 tags:
