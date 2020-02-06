@@ -34,7 +34,8 @@ tags:
 
 ## Security and Educational website
 
-### [Game01](./game01/)
+### Cyber Security Encryption Encoding Hashing Educational Games
 
+- [Game01](./game01/)
 
 ### This page is work in progress - feedback is welcomed! check antoniocloud.com
