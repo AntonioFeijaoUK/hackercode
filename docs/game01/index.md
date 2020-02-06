@@ -16,7 +16,7 @@ description: Crytpo challenge game01
 
 ## Mini-game crypto-challenge
 
-![Four-rotor-enigma.jpg](./assets/images/Four-rotor-enigma.jpg "Four-rotor-enigma, Image credits wikipedia")
+![Four-rotor-enigma.jpg](../assets/images/Four-rotor-enigma.jpg "Four-rotor-enigma, Image credits wikipedia")
 
 Welcome to the crypto-challenge version `v2 machine: nzv-09p6186nnp1781870`
 
