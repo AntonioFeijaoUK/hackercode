@@ -2,7 +2,7 @@
 title: "HackerCode.Run"
 excerpt_separator: "<!--more-->"
 header:
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Backlit_keyboard.jpg/2880px-Backlit_keyboard.jpg
+  image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Backlit_keyboard.jpg/2880px-Backlit_keyboard.jpg"
   caption: "Photo credit: [wikipedia.org](https://en.wikipedia.org/wiki/Main_Page)"
 categories:
   - Welcome
@@ -32,13 +32,9 @@ tags:
 
 <!--more-->
 
-
 ## Security and Educational website
 
-
-
 ### [Game01](/game01/)
-
 
 
 ### This page is work in progress - feedback is welcomed! check antoniocloud.com
