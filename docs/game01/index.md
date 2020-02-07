@@ -32,9 +32,9 @@ Welcome to the crypto-challenge version `v2 machine: nzv-09p6186nnp1781870`
 
 First of all, can you find where the challenge is?
 
-All I can say is that the you will run in in the `us-east-1` region.
+All I can say is that you will run it in the `us-east-1` region.
 
-You also need something from this page. Maybe you read it already.
+You also need something from this page, maybe you even read it already.
 
 If you need a hint to decipher it... "Julius Caesar, was a Roman dictator..."
 
@@ -42,7 +42,7 @@ If you need a hint to decipher it... "Julius Caesar, was a Roman dictator..."
 
 When you find it, ssh into to it and them game begins! Note the login message.
 
-Can you now find the password that decrypts the first file to reveal the hidden message?
+Can you now find the password that decrypts the first file to reveal the hidden message in it?
 
 ## How files were encrypted and how to decrypt them
 
@@ -55,15 +55,16 @@ When you find the password for the next file, use the command like this:
 `gpg --output file{01..05} --decrypt file{01..05}.encrypted`
 
 Then you will be asked for a password.
+
 Type it in to decrypt the file and reveal the next hidden message.
 
-If you need to clear the gpg cache, in case you put a wrong password you might need to run this command `echo RELOADAGENT | gpg-connect-agent`
+If you need to clear the gpg cache, in case you used a wrong password, you might need to run this command `echo RELOADAGENT | gpg-connect-agent`
 
-## Password have the full names of the services
+## Passwords use the full names of the services
 
-(it not fun if you brute-force it, but is possible)
+(is not fun if you brute-force it, but nothing stops you...)
 
-The passwords to decrypt the files needs the AWS or Amazon full names of the services.
+The passwords to decrypt the files need the AWS or Amazon full names of the services.
 
 Spaces matter. New lines matter. Everything matters!
 
