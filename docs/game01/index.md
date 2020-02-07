@@ -2,7 +2,7 @@
 title: "Crytpo challenge Game01"
 layout: single
 classes: wide
-author_profile: true
+author_profile: false
 tags:
     - aws
     - gameday
