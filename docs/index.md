@@ -10,7 +10,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: ./assets/images/Backlit-keyboard.jpg
   actions:
-    - label: "HackCode.Run Cyber Security"
+    - label: "IT and Cyber Security educational website and security best practices"
       url: "https://www.HackerCode.Run/"
   caption: "Photo credit: [wikipedia.org](https://en.wikipedia.org/wiki/Main_Page)"
 
