@@ -32,6 +32,20 @@ Hands on practice.
 
 ---
 
+## Game01
+
+**Instructions**: - [Game01](./game01/)
+
+**Topics** : Encoding, Decoding and more...
+
+**Knowledge Required** : Intermediate Linux sysadmin knowledge and CLI
+
+**Game difficulty** : Intermediante
+
+**Steps to complete** : Approximately 8
+
+---
+
 ## Hacker definition
 
 `HackerCode.Run` IS NOT a [cracker](https://en.wikipedia.org/wiki/Security_hacker) website.
@@ -40,23 +54,15 @@ Hands on practice.
 <!--more-->
 See [Hacker](https://en.wikipedia.org/wiki/Hacker) **general definition**
 
-> Reflecting the two types of hackers, there are two definitions of the word "hacker":
-> 
-> 1) an adherent of the technology and programming subculture; see hacker culture.
-> 
-> 2) someone who is able to subvert [computer security](https://en.wikipedia.org/wiki/Computer_security).
-> If doing so for malicious purposes, the person can also be called a [cracker](https://en.wikipedia.org/wiki/Security_hacker).
-> 
+Reflecting the two types of hackers, there are two definitions of the word "hacker":
+
+1) an adherent of the technology and programming subculture; see hacker culture.
+
+2) someone who is able to subvert [computer security](https://en.wikipedia.org/wiki/Computer_security). If doing so for malicious purposes, the person can also be called a [cracker](https://en.wikipedia.org/wiki/Security_hacker).
 
 ---
 
-## Game01
-
-Encoding, Decoding and more - [Game01](./game01/)
-
----
-
-## interesting links
+## Interesting links
 
 - <https://cryptochallenge.io/>
 
