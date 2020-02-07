@@ -22,8 +22,6 @@ tags:
   - defenition
 ---
 
-## HackerCode.Run
-
 IT and Cyber Security educational website and security best practices
 
 Encoding Hashing Educational Games.
@@ -39,10 +37,9 @@ Hands on practice.
 `HackerCode.Run` IS NOT a [cracker](https://en.wikipedia.org/wiki/Security_hacker) website.
 
 `HackerCode.Run` IS a [Hacker culture](https://en.wikipedia.org/wiki/Hacker_culture) website.
+<!--more-->
+See [Hacker](https://en.wikipedia.org/wiki/Hacker) **general definition**
 
-
-> [Hacker](https://en.wikipedia.org/wiki/Hacker) **general definition**
-> 
 > Reflecting the two types of hackers, there are two definitions of the word "hacker":
 > 
 > 1) an adherent of the technology and programming subculture; see hacker culture.
@@ -50,8 +47,6 @@ Hands on practice.
 > 2) someone who is able to subvert [computer security](https://en.wikipedia.org/wiki/Computer_security).
 > If doing so for malicious purposes, the person can also be called a [cracker](https://en.wikipedia.org/wiki/Security_hacker).
 > 
-
-<!--more-->
 
 ---
 
