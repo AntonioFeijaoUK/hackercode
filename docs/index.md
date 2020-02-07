@@ -24,9 +24,13 @@ tags:
 
 ## HackerCode.Run
 
-IT and Cyber Security educational website and security best practices
+IT and Cyber Security educational website and security best practices.
 
-Encoding Hashing Educational Games
+Encoding Hashing Educational Games.
+
+Security best practices.
+
+Hands on practice.
 
 ---
 
