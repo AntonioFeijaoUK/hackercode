@@ -2,7 +2,9 @@
 title: "Crytpo challenge Game01"
 layout: single
 classes: wide
+
 author_profile: false
+
 tags:
     - aws
     - gameday
@@ -10,7 +12,9 @@ tags:
     - unicorns
     - crypto
     - cryptography
-description: Crytpo challenge game01
+
+description: "Crytpo challenge game01"
+
 ---
 
 ## Mini-game crypto-challenge
@@ -19,32 +23,37 @@ description: Crytpo challenge game01
 
 Welcome to the crypto-challenge version `v2 machine: nzv-09p6186nnp1781870`
 
-First of all, can you find where the challenge is? All I can say is that the you will run in in the `us-east-1` region.
+First of all, can you find where the challenge is?
+All I can say is that the you will run in in the `us-east-1` region.
 
-You also need something from this page. Maybe you read it already. If you need a hint to decypher it... "Julius Caesar, was a Roman dictator..."
+You also need something from this page. Maybe you read it already.
+If you need a hint to decypher it... "Julius Caesar, was a Roman dictator..."
 
-When you find it, ssh into to it and them game begins!
+When you find it, ssh into to it and them game begins! Note the login messange.
 
-Note the login messange. Can you now find the password that decrypts the first file to reveal the hidden message?
+Can you now find the password that decrypts the first file to reveal the hidden message?
 
 Files were encrypted like this:
 
- - `gpg --cipher-algo AES256 --symmetric --output file01.encrypted file01`
+`gpg --cipher-algo AES256 --symmetric --output file01.encrypted file01`
 
 When you find the password for the next file, use the command like this:
 
- - `gpg --output file{01..05} -—decrypt file{01..05}.encrypted`
+`gpg --output file{01..05} -—decrypt file{01..05}.encrypted`
 
-Then you will be asked for a password. Type it in to decrypt the file and reveal the next hidden message.
+Then you will be asked for a password.
+Type it in to decrypt the file and reveal the next hidden message.
 
-Remeber to clear the gpg cache if you put a wrong password. `echo RELOADAGENT | gpg-connect-agent`
+If you need to clear the gpg cache, in case you put a wrong password you might need to run this command `echo RELOADAGENT | gpg-connect-agent`
 
 
-The passwords to decrypt the files use the AWS or Amazon full names of the services matter in this challenge. Spaces matter. New lines matter. Everything matters!
+The passwords to decrypt the files use the AWS or Amazon full names of the services matter in this challenge.
 
-e.g. "Where would you store object files with 99.999999999% (11 9's) of durability?"
+Spaces matter. New lines matter. Everything matters!
 
-Password answer would be: `Amazon Simple Storage Service`
+- e.g. "Where would you store object files with 99.999999999% (11 9's) of durability?"
+
+- Password answer would be: `Amazon Simple Storage Service`
 
 
 We wish you the best of good luck!
