@@ -3,6 +3,8 @@ title: "HackerCode.Run IT and Cyber Security educational website and security be
 excerpt_separator: "<!--more-->"
 author_profile: true
 
+layout: home
+
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
