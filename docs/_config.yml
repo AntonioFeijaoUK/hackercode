@@ -27,7 +27,7 @@ github_username: AntonioFeijaoUK
 
 remote_theme: mmistakes/minimal-mistakes
 
-minimal_mistakes_skin: dark # neon # dark # contrast # air # default: 'default'
+minimal_mistakes_skin: default #dark #neon #dark #contrast #air #default: 'default'
 
 search: true
 
