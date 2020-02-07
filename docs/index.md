@@ -1,5 +1,5 @@
 ---
-title: "HackerCode.Run"
+title: "HackerCode.Run IT and Cyber Security educational website and security best practices"
 excerpt_separator: "<!--more-->"
 author_profile: true
 
@@ -20,11 +20,22 @@ tags:
   - defenition
 ---
 
+## HackerCode.Run
+
+IT and Cyber Security educational website and security best practices
+
+Encoding Hashing Educational Games
+
+---
+
 ## Hacker definition
 
-[Hacker](https://en.wikipedia.org/wiki/Hacker)
+`HackerCode.Run` IS NOT a [cracker](https://en.wikipedia.org/wiki/Security_hacker) website.
 
-> **General definition**
+`HackerCode.Run` IS a [Hacker culture](https://en.wikipedia.org/wiki/Hacker_culture) website.
+
+
+> [Hacker](https://en.wikipedia.org/wiki/Hacker) **general definition**
 > 
 > Reflecting the two types of hackers, there are two definitions of the word "hacker":
 > 
@@ -34,16 +45,14 @@ tags:
 > If doing so for malicious purposes, the person can also be called a [cracker](https://en.wikipedia.org/wiki/Security_hacker).
 > 
 
-- This IS NOT a [cracker](https://en.wikipedia.org/wiki/Security_hacker) website.
-
-- This IS a [Hacker_culture](https://en.wikipedia.org/wiki/Hacker_culture) website.
-
 <!--more-->
 
-## Security and Educational website
+---
 
-### Cyber Security Encryption Encoding Hashing Educational Games
+## Game01
 
-- [Game01](./game01/)
+Encoding, Decoding and more - [Game01](./game01/)
+
+---
 
 ### This page is work in progress - feedback is welcomed! check antoniocloud.com
