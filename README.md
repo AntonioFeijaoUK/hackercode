@@ -1,2 +1,2 @@
 # hackercode
-HackerCode.Run - https://www.hackercode.run
+HackerCode.Run - <https://HackerCode.Run>
