@@ -1,6 +1,7 @@
 ---
 title: "Crytpo challenge Game01"
-layout: post
+layout: single
+classes: wide
 author_profile: true
 tags:
     - aws
