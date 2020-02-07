@@ -1,9 +1,18 @@
 ---
-title: "Crypto challenge Game01"
+title: "Mini-game crypto-challenge GAME01"
 layout: single
 classes: wide
 
-author_profile: false
+author_profile: true
+
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: ../assets/images/Four-rotor-enigma.jpg
+  actions:
+    - label: "HackerCode.Run"
+      url: "https://www.HackerCode.Run"
+  caption: "Photo credit: wikipedia"
 
 tags:
     - aws
@@ -14,14 +23,10 @@ tags:
     - cryptography
 
 description: "mini-game crypto challenge GAME01"
-
 ---
 
-## Mini-game crypto-challenge
 
-![Four-rotor-enigma.jpg](../assets/images/Four-rotor-enigma.jpg "Four-rotor-enigma, Image credits wikipedia")
-
-### Welcome and version
+## Welcome and version
 
 Welcome to the crypto-challenge version `v2 machine: nzv-09p6186nnp1781870`
 
@@ -33,13 +38,13 @@ You also need something from this page. Maybe you read it already.
 
 If you need a hint to decipher it... "Julius Caesar, was a Roman dictator..."
 
-### When you find it
+## When you find it
 
 When you find it, ssh into to it and them game begins! Note the login message.
 
 Can you now find the password that decrypts the first file to reveal the hidden message?
 
-### How files were encrypted and how to decrypt them
+## How files were encrypted and how to decrypt them
 
 Files were encrypted like this:
 
@@ -54,7 +59,7 @@ Type it in to decrypt the file and reveal the next hidden message.
 
 If you need to clear the gpg cache, in case you put a wrong password you might need to run this command `echo RELOADAGENT | gpg-connect-agent`
 
-### Password have the full names of the services
+## Password have the full names of the services
 
 (it not fun if you brute-force it, but is possible)
 
@@ -66,7 +71,7 @@ Spaces matter. New lines matter. Everything matters!
 
 - Password answer would be: `Amazon Simple Storage Service`
 
-### Best of luck
+## Best of luck
 
 We wish you the best of good luck!
 
@@ -76,9 +81,11 @@ We wish you the best of good luck!
 
 [AWS GameDay](https://aws.amazon.com/gameday/)
 
-[www.real-unicorns.com](https://www.real-unicorns.com)
-
 ---
+
+## Thank you
+
+[HackerCode.Run](https://www.HackerCode.Run)
 
 Cryptographic game was created by [Antonio Feijao UK](https://www.linkedin.com/in/antoniofeijaouk/), AWS Solutions Architect for Amazon Web Services EMEA SARL, UK.
 
