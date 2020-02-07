@@ -56,4 +56,14 @@ Encoding, Decoding and more - [Game01](./game01/)
 
 ---
 
-### This page is work in progress - feedback is welcomed! check antoniocloud.com
+## interesting links
+
+- <https://cryptochallenge.io/>
+
+- <https://www.hackthebox.eu/>
+
+---
+
+### This page is in work in progress
+
+- Feedback is welcomed! Contact <https://www.AntonioCloud.com>
