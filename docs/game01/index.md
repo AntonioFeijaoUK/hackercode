@@ -1,6 +1,6 @@
 ---
 title: "Crytpo challenge Game01"
-layout: single
+layout: splash
 classes: wide
 author_profile: true
 tags:
