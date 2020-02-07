@@ -1,5 +1,7 @@
 ---
-title: Crytpo challenge game01
+title: "Crytpo challenge Game01"
+layout: post
+author_profile: true
 tags:
     - aws
     - gameday
@@ -8,10 +10,6 @@ tags:
     - crypto
     - cryptography
 description: Crytpo challenge game01
----
-
-## Thank you for your participation! 
-
 ---
 
 ## Mini-game crypto-challenge
@@ -66,5 +64,5 @@ Cryptographic game was created by [Antonio Feijao UK](https://www.linkedin.com/i
 
 If you enjoy the game, please leave some feedback in [here](https://feedback.aws.amazon.com/?ea=feijao&fn=Antonio&ln=Feijao).
 
-Thank you.
+Thank you,
 AF
