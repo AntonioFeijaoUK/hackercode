@@ -62,6 +62,12 @@ Encoding, Decoding and more - [Game01](./game01/)
 
 - <https://www.hackthebox.eu/>
 
+- <https://cryptopals.com/>
+
+- <https://www.khanacademy.org/computing/computer-science/cryptography>
+
+- do you have another suggestion? keep in touch, contact below.
+
 ---
 
 ### This page is in work in progress
