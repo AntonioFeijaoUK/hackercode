@@ -66,4 +66,4 @@ Encoding, Decoding and more - [Game01](./game01/)
 
 ### This page is in work in progress
 
-- Feedback is welcomed! Contact <https://www.AntonioCloud.com>
+- Feedback is welcomed! Contact [AntonioCloud.com](https://www.AntonioCloud.com)
