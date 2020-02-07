@@ -21,17 +21,25 @@ description: "Crytpo challenge game01"
 
 ![Four-rotor-enigma.jpg](../assets/images/Four-rotor-enigma.jpg "Four-rotor-enigma, Image credits wikipedia")
 
+### Welcome and version
+
 Welcome to the crypto-challenge version `v2 machine: nzv-09p6186nnp1781870`
 
 First of all, can you find where the challenge is?
+
 All I can say is that the you will run in in the `us-east-1` region.
 
 You also need something from this page. Maybe you read it already.
+
 If you need a hint to decypher it... "Julius Caesar, was a Roman dictator..."
+
+### When you find it
 
 When you find it, ssh into to it and them game begins! Note the login messange.
 
 Can you now find the password that decrypts the first file to reveal the hidden message?
+
+### How files were encrypted and how to decrypt them
 
 Files were encrypted like this:
 
@@ -46,8 +54,11 @@ Type it in to decrypt the file and reveal the next hidden message.
 
 If you need to clear the gpg cache, in case you put a wrong password you might need to run this command `echo RELOADAGENT | gpg-connect-agent`
 
+### Password have the full names of the services
 
-The passwords to decrypt the files use the AWS or Amazon full names of the services matter in this challenge.
+(it not fun if you brute-force it, but is possible)
+
+The passwords to decrypt the files needs the AWS or Amazon full names of the services.
 
 Spaces matter. New lines matter. Everything matters!
 
@@ -55,10 +66,9 @@ Spaces matter. New lines matter. Everything matters!
 
 - Password answer would be: `Amazon Simple Storage Service`
 
+### Best of luck
 
 We wish you the best of good luck!
-
-Real-Unicorns team
 
 ---
 
