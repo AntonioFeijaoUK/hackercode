@@ -65,7 +65,7 @@ plugins:
 
 author:
   name   : "Antonio Feijao UK"
-  avatar : ""
+  avatar : "/assets/images/antonio-feijao-uk-logo.jpg"
   bio    : "`AWS Solutions Architect`, with `Advanced Networking` and `Security Specialty` Certified. **The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
   location: "London, United Kingdom"
   links:
