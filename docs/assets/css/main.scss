@@ -1,0 +1,21 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+code.language-plaintext.highlighter-rouge {
+	color: #ffffff;
+	background-color: #0066FF;
+	padding-top: 1px;
+	padding-right: 3px;
+	padding-bottom: 1px;
+	padding-left: 3px;
+	border-radius: 5px;
+	font-size: 14px;
+	font-weight: normal;
+	font-family: "Lucida Console", Monaco, monospace;
+}
