@@ -32,9 +32,9 @@ Hands on practice.
 
 ---
 
-## Game01
+## GAME01
 
-**Instructions**: - [Game01](./game01/)
+**Instructions**: - [GAME01](./game01/)
 
 **Topics** : Encoding, Decoding and more...
 
