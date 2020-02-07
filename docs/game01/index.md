@@ -1,5 +1,5 @@
 ---
-title: "Crytpo challenge Game01"
+title: "Crypto challenge Game01"
 layout: single
 classes: wide
 
@@ -13,7 +13,7 @@ tags:
     - crypto
     - cryptography
 
-description: "Crytpo challenge game01"
+description: "mini-game crypto challenge GAME01"
 
 ---
 
@@ -21,7 +21,7 @@ description: "Crytpo challenge game01"
 
 ![Four-rotor-enigma.jpg](../assets/images/Four-rotor-enigma.jpg "Four-rotor-enigma, Image credits wikipedia")
 
-### Welcome and version
+### Welcome and version
 
 Welcome to the crypto-challenge version `v2 machine: nzv-09p6186nnp1781870`
 
@@ -31,15 +31,15 @@ All I can say is that the you will run in in the `us-east-1` region.
 
 You also need something from this page. Maybe you read it already.
 
-If you need a hint to decypher it... "Julius Caesar, was a Roman dictator..."
+If you need a hint to decipher it... "Julius Caesar, was a Roman dictator..."
 
-### When you find it
+### When you find it
 
-When you find it, ssh into to it and them game begins! Note the login messange.
+When you find it, ssh into to it and them game begins! Note the login message.
 
 Can you now find the password that decrypts the first file to reveal the hidden message?
 
-### How files were encrypted and how to decrypt them
+### How files were encrypted and how to decrypt them
 
 Files were encrypted like this:
 
@@ -47,14 +47,14 @@ Files were encrypted like this:
 
 When you find the password for the next file, use the command like this:
 
-`gpg --output file{01..05} -—decrypt file{01..05}.encrypted`
+`gpg --output file{01..05} --decrypt file{01..05}.encrypted`
 
 Then you will be asked for a password.
 Type it in to decrypt the file and reveal the next hidden message.
 
 If you need to clear the gpg cache, in case you put a wrong password you might need to run this command `echo RELOADAGENT | gpg-connect-agent`
 
-### Password have the full names of the services
+### Password have the full names of the services
 
 (it not fun if you brute-force it, but is possible)
 
@@ -66,7 +66,7 @@ Spaces matter. New lines matter. Everything matters!
 
 - Password answer would be: `Amazon Simple Storage Service`
 
-### Best of luck
+### Best of luck
 
 We wish you the best of good luck!
 
