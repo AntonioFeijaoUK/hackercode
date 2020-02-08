@@ -3,7 +3,7 @@ title: "HackerCode.Run"
 excerpt_separator: "<!--more-->"
 author_profile: true
 
-layout: home
+layout: default
 
 header:
   overlay_color: "#000"
