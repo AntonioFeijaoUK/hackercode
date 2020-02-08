@@ -62,6 +62,13 @@ Reflecting the two types of hackers, there are two definitions of the word "hack
 
 ---
 
+## Interesting reading on IT and Cyber security
+
+- <https://gist.github.com/atcuno/3425484ac5cce5298932>
+- <https://www.schneier.com/>
+
+---
+
 ## Interesting links
 
 - <https://cryptochallenge.io/>
