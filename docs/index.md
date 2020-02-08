@@ -8,7 +8,7 @@ layout: home
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: ./assets/images/Backlit-keyboard.jpg
+  overlay_image: /assets/images/Backlit-keyboard.jpg
   actions:
     - label: "IT and Cyber Security educational website and security best practices"
       url: "https://www.HackerCode.Run/"
