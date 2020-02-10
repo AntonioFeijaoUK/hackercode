@@ -79,6 +79,8 @@ Reflecting the two types of hackers, there are two definitions of the word "hack
 
 - <https://www.khanacademy.org/computing/computer-science/cryptography>
 
+- <https://ssd.eff.org/> - <https://www.eff.org/>
+
 - do you have another suggestion? keep in touch, contact below.
 
 ---
