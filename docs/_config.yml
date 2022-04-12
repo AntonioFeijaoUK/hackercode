@@ -14,18 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "HackerCode.Run Cyber Security Education"
+title: "Security Games - Cyber Security Education"
 email: "antoniofeijao@gmail.com"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  "HackerCode.Run - IT and Cyber Security Educational website and security best practices
+  "Security Games - IT and Cyber Security Educational website and security best practices
   Disclaimer: **The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
 
 baseurl:
 twitter_username: AntonioFeijaoUK
 github_username: AntonioFeijaoUK
 
-remote_theme: mmistakes/minimal-mistakes
+#remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 minimal_mistakes_skin: default #dark #neon #dark #contrast #air #default: 'default'
 
@@ -66,6 +67,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  
 
 author:
   name   : "Antonio Feijao UK"
@@ -146,7 +148,7 @@ comments:
   provider: "disqus"
   disqus:
     shortname: ""
-    
+
 
 analytics:
   provider: "google-gtag"
@@ -154,4 +156,4 @@ analytics:
     tracking_id: ""
     anonymize_ip: true # default
 
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
