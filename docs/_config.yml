@@ -26,7 +26,8 @@ twitter_username: AntonioFeijaoUK
 github_username: AntonioFeijaoUK
 
 #remote_theme: mmistakes/minimal-mistakes
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes"  # without the @ the lastest version will be used
 
 minimal_mistakes_skin: default #dark #neon #dark #contrast #air #default: 'default'
 
